@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container .main .first {
+  color: red;
+}
+
+.container .second {
+  color: green;
+}
+/*# sourceMappingURL=style.css.map */
